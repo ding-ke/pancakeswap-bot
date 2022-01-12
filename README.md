@@ -13,10 +13,12 @@
 
  ## 结构说明
 
-├── abi                             智能合约说明JSON文件
+```
+├── abi                             //智能合约说明JSON文件
 │   ├── coin.json
 │   ├── pancakeFactoryV2.json
 │   ├── pancakeLiquidPair.json
 │   └── pancakeRouterV2.json
-├── config.js                      配置
-└── index.js                       主要程序
+├── config.js                      //配置
+└── index.js                       //主要程序
+```
